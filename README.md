@@ -20,5 +20,7 @@ Fakultas : STEI - Komputasi
 `Praktikum 3` : CREATE, ALTER, VIEW, UPDATE, INSERT, DELETE
 
 
+### [Setup Praktikum](https://docs.google.com/document/d/1M3gYhnNW7ewpT1-YbAcYBxHx4-8LJctmU7bRovb2mbo/edit)
+
 
 <!-- LINK REPOSITORY: https://github.com/NoHaitch/Basdat_2024 -->
