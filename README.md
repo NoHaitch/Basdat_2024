@@ -20,7 +20,8 @@ Fakultas : STEI - Komputasi
 `Praktikum 3` : CREATE, ALTER, VIEW, UPDATE, INSERT, DELETE
 
 
-### [Setup Praktikum](https://docs.google.com/document/d/1M3gYhnNW7ewpT1-YbAcYBxHx4-8LJctmU7bRovb2mbo/edit)
+### [Setup MariaDB](https://docs.google.com/document/d/1M3gYhnNW7ewpT1-YbAcYBxHx4-8LJctmU7bRovb2mbo/edit)
+### [Teknis dan Petunjuk Praktikum](https://docs.google.com/document/d/1AWgUwgOR8M5tcOHZKD3-FAtO5ffn2EOZxwBBPzk8m9w/edit)
 
 
 <!-- LINK REPOSITORY: https://github.com/NoHaitch/Basdat_2024 -->
